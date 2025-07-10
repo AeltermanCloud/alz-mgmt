@@ -1,0 +1,20 @@
+{
+  "AVAILABILITY_ZONES": [
+    "1",
+    "2",
+    "3"
+  ],
+  "AVAILABILITY_ZONES_SECONDARY": [],
+  "CONNECTIVITY_RESOURCE_GROUP": "rg-alz-connectivity",
+  "CONNECTIVITY_SUBSCRIPTION_ID": "fca9eaf6-728a-4252-9e2d-aa2532c82614",
+  "IDENTITY_SUBSCRIPTION_ID": "d08095f8-98fa-434e-8f14-6d06471029b0",
+  "LOCATION": "canadacentral",
+  "LOGGING_RESOURCE_GROUP": "rg-alz-logging",
+  "MANAGEMENT_SUBSCRIPTION_ID": "efd2877e-cc6a-4660-ab6d-60f1c33f3ded",
+  "NETWORK_TYPE": "hubNetworking",
+  "MANAGEMENT_GROUP_ID": "alz",
+  "PREFIX": "alz",
+  "RELEASE_VERSION": "v0.22.3",
+  "ROOT_PARENT_MANAGEMENT_GROUP_ID": "",
+  "SECONDARYLOCATION": ""
+}
